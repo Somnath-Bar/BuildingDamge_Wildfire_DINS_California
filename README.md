@@ -6,7 +6,7 @@ The framework combines statistical modeling, causal analysis, and machine learni
 
 All data processing and analysis codes are included in this repository, along with the datasets used for processing.
 
-
+***
 california-wildfire-building-damage/
 │
 ├── README.md
@@ -49,3 +49,4 @@ california-wildfire-building-damage/
 └── docs/
     ├── methods.md
     └── supplementary_info.md
+    ***    
